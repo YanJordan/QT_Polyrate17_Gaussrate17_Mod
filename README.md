@@ -20,10 +20,10 @@ https://comp.chem.umn.edu/polyrate/
 https://comp.chem.umn.edu/gaussrate/
 
 ## Citations
-Polyrate 17:  
+**Polyrate 17**:  
 Zheng, J. B., J. L.; Meana-Pañeda, R.; Zhang, S.; Lynch, B. J.; Corchado, J. C.; Chuang, Y.-Y.; Fast, P. L.; Hu, W.-P.; Liu, Y.-P.; Lynch, G. C.; Nguyen, K. A.; Jackels, C. F.; Fernandez Ramos, A.;Ellingson, B. A.; Melissas, V. S.; Villà, J. Rossi, I.; Coitiño, E. L.; Pu, J.; Albu, T. V.; Ratkiewicz, A.; Steckler, R.; Garrett, B. C.; Isaacson, A. D.; Truhlar, D. G. Polyrate-version 2017-C, University of Minnesota: Minneapolis, **2017**.
 
-Gaussrate 17:  
+**Gaussrate 17**:  
 Jingjing Zheng, J. L. B., Shuxia Zhang, José C. Corchado, Rubén Meana-Pañeda, Yao-Yuan Chuang, Elena L. Coitiño, Benjamin A. Ellingson, and Donald G. Truhlar Gaussrate 17-B, University of Minnesota, Minneapolis, MN 55455-0431, USA, **2017**.
 
 Modification for external electric fields cases: 

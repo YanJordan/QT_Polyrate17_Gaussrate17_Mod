@@ -2,7 +2,7 @@
 Modification of Quantum tunneling computational code (Polyrate 17 &amp; Gaussrate 17)
 
 ## Purpose
-For avoiding problems related to reorientation, The original Polyrate and Gaussrate code will translate origin of coordinates to the center of masses of the optimized saddle point. However, when computations under external electric fields were tried, energies were changed after translation in external electric fields. Therefore, we comments the translation part in the code, and recompile it. It works well in our computation.
+For avoiding problems related to reorientation, the original Polyrate and Gaussrate code will translate origin of coordinates to the center of masses of the optimized saddle point. However, when computations under external electric fields were tried, energies were changed after translation in external electric fields. Therefore, we comments the translation part in the code, and recompile it. It works well in our computation.
 
 ## Code Modification
 ![avatar](Mod.png)

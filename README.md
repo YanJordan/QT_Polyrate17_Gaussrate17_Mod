@@ -30,13 +30,7 @@ Modification for external electric fields cases:
 
 coming soon
 ..
-<<<<<<< Updated upstream
+
 src/ammod.f90
 line 413: PARAMETER (MAXWKB = 50) ==> PARAMETER (MAXWKB = 500)
-=======
 
-
-## MAXWKB problem
-src/aamod.f90
-line 413: PARAMETER (MAXWKB = 50) ==> PARAMETER (MAXWKB = 100)
->>>>>>> Stashed changes

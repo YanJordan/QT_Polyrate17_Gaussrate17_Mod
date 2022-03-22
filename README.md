@@ -13,6 +13,14 @@ copy the polyag.F file to the Polyrate17/src/
 
 recompiler the Polyrate and Gaussrate code.
 
+## MAXWKB problem in fu6 file
+
+modify the PARAMETER (MAXWKB = 50)
+file src/ammod.f90
+line 413: PARAMETER (MAXWKB = 50) ==> PARAMETER (MAXWKB = 100) or larger
+
+recompiler the Polyrate and Gaussrate code.
+
 ## Original code
 Visite the home page for downloading the original code:  
 https://comp.chem.umn.edu/polyrate/ 
@@ -30,7 +38,4 @@ Modification for external electric fields cases:
 
 coming soon
 ..
-
-src/ammod.f90
-line 413: PARAMETER (MAXWKB = 50) ==> PARAMETER (MAXWKB = 500)
 
